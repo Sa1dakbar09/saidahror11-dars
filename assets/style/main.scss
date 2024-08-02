@@ -1,0 +1,546 @@
+header,
+main,
+ul {
+    display: -webkit-box;
+    display: -ms-flexbox
+}
+
+main h1,
+main p {
+    text-align: left
+}
+
+a,
+main button {
+    line-height: 21.78px;
+    color: #fff
+}
+
+main button,
+main button:hover {
+    -webkit-transition: .5s;
+    -o-transition: .5s
+}
+
+.p,
+.row,
+a,
+main h1,
+main p {
+    color: #fff
+}
+
+header,
+main,
+section {
+    max-width: 1440px;
+    margin: 0 auto
+}
+
+.contact p,
+li:hover {
+    color: #c99e71
+}
+
+.contact h6,
+.contact p {
+    font-family: Righteous;
+    font-weight: 400;
+    line-height: 29.8px
+}
+
+#sec_4 p,
+.div {
+    padding-top: 20px
+}
+
+#sec_5,
+.n3_div {
+    background-color: #1c1814
+}
+
+#sec_5 input,
+body {
+    background-color: #000
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(../images/Inter/static/Inter_28pt-SemiBold.ttf)
+}
+
+@font-face {
+    font-family: Righteous;
+    src: url(../fonts/Righteous/Righteous-Regular.ttf)
+}
+
+@font-face {
+    font-family: Urbanist;
+    src: url(../images/Urbanist/static/Urbanist-SemiBold.ttf)
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+body {
+    width: 100%
+}
+
+header {
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 20px 100px;
+    gap: 130px
+}
+
+header img {
+    width: 62px;
+    height: 50px
+}
+
+ul {
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 40px;
+    list-style: none
+}
+
+a {
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center
+}
+
+main {
+    background-image: url("https://s3-alpha-sig.figma.com/img/a8e1/5a97/fd02976fe73d3ec6e4b2522239136937?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fTSH9yz9-D1uv0GQhRPABETcFVssrw47pe9~0hI3~oH1R7E5eyiTs4X~enuFwHyoR7akD~1GohpGHCB8MKf88aanxIwrdgxLz4QG0cNQ6RtJCqtrefILdRg9zWL7KcMP279Dgg~0ShaIVNmXsFYTAsTSnGtPmXZZpuXrnsJ6ipU73lxm6-pOhvyaYHducQ6yYpFDTNa87ZUQnJNqY-vPDZ-81pqr48NaDCVyhzPaBcyoHZVHLHOHb0sOk87gZ3f4d8EEh3wzyg5rX9yxrTgpY1abGPkHS-3EbnhmyaYfO0aGk8YwuzCJZYV1XoH~G0lHkAhL~msmkaO9F~7YHwp4Sg__");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: end
+}
+
+#sec_2,
+.contact,
+.container,
+.top_div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-align: center
+}
+
+main h1 {
+    font-family: Righteous;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 93.6px
+}
+
+main p {
+    font-family: Urbanist;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    padding-top: 30px
+}
+
+.btn,
+.p,
+main button {
+    font-family: Inter
+}
+
+.div,
+main button {
+    text-align: center
+}
+
+main button {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 30px;
+    background: #c99e71;
+    border: 1px solid transparent;
+    width: 190px;
+    height: 50px;
+    cursor: pointer;
+    transition: .5s
+}
+
+main button:hover {
+    border-radius: 10px;
+    background-color: #1e90ff;
+    transition: .5s;
+    color: #000
+}
+
+.div {
+    border-radius: 50%;
+    border: 2px solid #fff;
+    width: 60px;
+    height: 60px
+}
+
+.contact h6,
+.contact p,
+.n3_div h3,
+.p {
+    text-align: left
+}
+
+.box1 {
+    padding: 80px 450px 80px 100px
+}
+
+.row {
+    padding-right: 100px;
+    margin-bottom: 70px
+}
+
+.p {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 19.36px;
+    padding-top: 10px
+}
+
+section {
+    padding: 100px 120px
+}
+
+#sec_2,
+.contact,
+.container {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 10px
+}
+
+.contact p {
+    font-size: 24px
+}
+
+.contact h6 {
+    font-size: 20px;
+    color: #fff
+}
+
+#sec_3 h4,
+.n3_div h3 {
+    font-size: 18px;
+    font-weight: 600
+}
+
+#sec_3 button,
+#sec_3 h4,
+#sec_5 p,
+.n3_div h3 {
+    line-height: 21.6px
+}
+
+#sec_3 h4,
+#sec_5 p,
+.mini_div,
+.n3_div h3 {
+    color: #c99e71
+}
+
+.top_div {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 130px
+}
+
+.bottom_div,
+.mini_div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-align: center
+}
+
+.bottom_div {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 44px
+}
+
+.bottom_div img {
+    width: 300px;
+    height: 320px
+}
+
+.n1_div>img {
+    width: 260px;
+    height: 282px
+}
+
+.n1_div {
+    display: -ms-grid;
+    display: grid;
+    row-gap: 31px
+}
+
+.n2_div>img {
+    width: 250px;
+    height: 599px
+}
+
+.n3_div {
+    padding: 91px 70px
+}
+
+.n3_div h3 {
+    font-family: Urbanist
+}
+
+#sec_3 h1,
+#sec_4 h2,
+.n3_div h2 {
+    line-height: 62.4px
+}
+
+.n3_div h2 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: left;
+    color: #fff;
+    padding-top: 15px
+}
+
+#sec_3 h4,
+.n3_div p {
+    font-family: Urbanist
+}
+
+#sec_4 p,
+.n3_div p {
+    line-height: 28.8px;
+    text-align: left
+}
+
+.n3_div p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: capitalize;
+    padding-top: 30px
+}
+
+.container img {
+    width: 270px;
+    height: 300px;
+    margin: 25px
+}
+
+.mini_div {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 70px
+}
+
+#sec_3 button,
+#sec_4 {
+    -webkit-box-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox
+}
+
+.big_div {
+    background: #121315;
+    width: 366px;
+    margin-top: 25px;
+    height: 500px
+}
+
+.big_div h2 {
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase
+}
+
+#sec_3 h4 {
+    text-align: center
+}
+
+#sec_3 h1 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff
+}
+
+#sec_3 button,
+.btn {
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer
+}
+
+#sec_3 button {
+    font-family: Urbanist;
+    font-weight: 600;
+    margin: 20px 80px;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    width: 169px;
+    height: 48px;
+    padding-left: 20px;
+    gap: 15px;
+    background-color: #c99e71;
+    border: 1px solid transparent;
+    color: #fff
+}
+
+#sec_3 button:hover,
+#sec_4 button:hover,
+#sec_5 button:hover,
+.btn:hover {
+    background-color: #1e90ff;
+    border-radius: 10px;
+    color: #000;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s
+}
+
+#sec_4 button,
+.btn {
+    border: 1px solid transparent;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    line-height: 21.78px;
+    color: #fff;
+    background-color: #c99e71
+}
+
+#sec_4 {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 100px 250px;
+    gap: 100px;
+    margin-top: 50px
+}
+
+.btn {
+    font-weight: 700;
+    width: 252px;
+    height: 62px;
+    margin: 0 500px;
+    transition: .5s
+}
+
+#sec_4 h2 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: left;
+    color: #fff
+}
+
+#sec_4 p {
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff
+}
+
+#sec_4 button,
+#sec_5 p {
+    font-size: 18px;
+    text-align: center
+}
+
+#sec_4 button {
+    width: 200px;
+    height: 52px;
+    gap: 10px;
+    font-family: Inter;
+    font-weight: 700;
+    transition: .5s;
+    margin-top: 20px
+}
+
+#sec_5 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 28px
+}
+
+#sec_5 p {
+    font-family: Urbanist;
+    font-weight: 600
+}
+
+#sec_5 h3 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 59.6px;
+    text-align: center;
+    color: #fff
+}
+
+#sec_5 button,
+#sec_5 input {
+    border: 1px solid transparent;
+    font-size: 18px
+}
+
+#sec_5 input {
+    width: 489px;
+    height: 64px;
+    font-family: Urbanist;
+    font-weight: 600;
+    line-height: 32.4px;
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px
+}
+
+#sec_5 button {
+    width: 200px;
+    height: 52px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    cursor: pointer;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: center;
+    color: #fff;
+    background-color: #c99e71;
+    margin: 30px 150px
+}
